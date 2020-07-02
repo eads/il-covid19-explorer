@@ -46,7 +46,7 @@ for (var k in parameters) {
   }
 }
 // const fetchURL = locationQuery(otherParams)
-const fetchURL = "https://chicago-arrests.herokuapp.com/v1/graphql"
+const fetchURL = "https://covid19.reporterdata.com/v1/graphql"
 
 function graphQLFetcher(graphQLParams) {
   return fetch(fetchURL, {
