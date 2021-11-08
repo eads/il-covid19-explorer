@@ -13,7 +13,7 @@
     "gatsby-plugin-sharp": "^2.4.13",
     "gatsby-source-filesystem": "^2.1.56",
     "gatsby-transformer-sharp": "^2.3.19",
-    "graphiql": "^0.17.5",
+    "graphiql": "^1.4.7",
     "graphiql-code-exporter": "^2.0.8",
     "graphiql-explorer": "^0.5.1",
     "prop-types": "^15.7.2",
